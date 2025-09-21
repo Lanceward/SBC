@@ -1,0 +1,8 @@
+logs
+MNIST
+datas
+.DS_Store
+__pycache__
+cifar10dvs_64x64_cache.pt
+cifar10dvs_data_128x128
+cifar10dvs_data_64x64*.pdf
