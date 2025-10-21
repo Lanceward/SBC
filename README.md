@@ -2,7 +2,6 @@
 
 Post Training Quantization/Pruning with Second-order Hessian Information for Spiking Neural Network. Paper: <https://arxiv.org/abs/2506.03996>
 
-W
 
 Required packages: 
 ```bash
